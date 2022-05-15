@@ -19,6 +19,5 @@ struct IkiliSiralamaAgaci {	//Ikili siralama agaci veri yapisi
 };
 
 
-
 bool DFS(Dugum*, int);	//Ilk derinlik arama fonksiyonu bir agac koku ve aranacak deger parametrelerini alir
 bool BFS(Dugum*, int);//Ilk genislik arama fonksiyonu bir agac koku ve aranacak deger parametrelerini alir
